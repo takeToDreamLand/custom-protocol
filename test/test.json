@@ -1,0 +1,22 @@
+{
+    "codeGeneration": {},
+    "language": "zh-CN",
+    "AppLanguage": "Chinese",
+    "LastModelPath": "C:\\Users\\dream\\Documents\\LeanPro\\Testing\\cuketest_regression\\WindowsTesting\\features\\step_definitions\\model1.tmodel",
+    "CaptureSnapshots": true,
+    "HighlightColor": "",
+    "HighlightWhenSelect": true,
+    "DPIAware": true,
+    "GenerateObjectPath": "GenerateShortPathWhenPossible",
+    "licenseType": "seat",
+    "licenseServer": "",
+    "showSubtitle": true,
+    "theme": 0,
+    "webModelManager": false,
+    "troubleShoot": false,
+    "liteScenarioQuota": 10, 
+    "liteApiQuota": 20,
+    "proApiQuota": 20,
+    "feedbackHost": "http://192.168.1.4",
+    "quality": "test"
+}

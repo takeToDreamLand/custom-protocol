@@ -1,0 +1,14 @@
+{
+  "name": "custom-protocol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tcp.js",
+  "scripts": {
+    "tcp-server": "node tcp/server.js",
+    "test-tcp": "node test/tcp.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
